@@ -9,8 +9,8 @@
 
 <channel>
 	<title>saam &#8211; Web Agency Demo 1</title>
-	<atom:link href="//author/saam/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://saamsmedia.pages.dev/author/saam/feed/" rel="self" type="application/rss+xml" />
+	<link>https://saamsmedia.pages.dev</link>
 	<description></description>
 	<lastBuildDate>Fri, 09 Feb 2024 05:44:41 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>//2024/02/09/hello-world/</link>
-					<comments>//2024/02/09/hello-world/#comments</comments>
+		<link>https://saamsmedia.pages.dev/2024/02/09/hello-world/</link>
+					<comments>https://saamsmedia.pages.dev/2024/02/09/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[saam]]></dc:creator>
 		<pubDate>Fri, 09 Feb 2024 05:44:41 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">//?p=1</guid>
+		<guid isPermaLink="false">https://saamsmedia.pages.dev/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>//2024/02/09/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://saamsmedia.pages.dev/2024/02/09/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
